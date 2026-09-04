@@ -319,6 +319,3 @@ Feedstock Maintainers
 * [@sdvillal](https://github.com/sdvillal/)
 * [@traversaro](https://github.com/traversaro/)
 
-
-<!-- dummy commit to enable rerendering -->
-
